@@ -387,6 +387,7 @@ img{
     font-size: 4rem;
 }
 .skills__name{
+    padding: 10px;
     font-size: var(--small-font-size);
 }
 .skills__content{
